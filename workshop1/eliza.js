@@ -48,6 +48,12 @@ var rules = {
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
+  
+  "~*x nina ~*y": [
+    "hi nina!",
+    "nina is a great name",
+    "Excellency!",
+  ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
     "Does thinking of ~y bring anything else to mind?",
