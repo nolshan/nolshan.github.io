@@ -29,217 +29,131 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "There is singularly nothing that makes a difference a difference in beginning and in the middle and in ending."
   ],
-  "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+  "~*x path ~*y": [
+    "I must flee",
+    "Under the trees of England I meditated.",
+    "There is almost not an interval",
+    "It was very controversial to say that amphibians were disapearing",
+   
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I went on and on to a thousand pages of it.",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
-  ],
+    "It is a complex fate to be an American",
+    "The developement of an esoteric vocanulary and skills",
   
-  "~*x nina ~*y": [
-    "hi nina!",
-    "nina is a great name",
-    "Excellency!",
   ],
   "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
-    "What else do you remember?",
-    "Why do you recall ~y right now?",
-    "What in the present situation reminds you of ~y?",
-    "What is the connection between me and ~y?",
+    "I had been in Paris a couple years before",
+    "The sages created images to give full expression to meaning",
+    "This chapter would take a very long time to analyze, since I lack time I leave it.",
+ 
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
-    "Why do you think I should recall ~y now?",
-    "What about ~y?",
-    "You mentioned ~y",
+    "It is not just a Chinese book",
+    "Ideals are real.",
+    
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you want ~y?",
-    "Suppose you got ~y soon.",
+    "Over there was piss cum",
+    "Is the distinctiion between the symbolic and the imaginary a stable distinction",
+   
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you need ~y?",
-    "Suppose you got ~y soon.",
+    "What am I gonna be when I grow up",
+    "Sow in negligence with a grain of salt dire vision",
+
   ],
   "~*x if ~*y": [
-    "Do you really think it's likely that ~y?",
-    "Do you wish that ~y?",
-    "What do you think about ~y?",
-    "Really--if ~y?",
+    "Pig meat farming man",
+    "Pater: Father",
+  
   ],
   "~*x I dreamt ~*y": [
-    "Really-- ~y",
-    "Have you ever fantasized ~y while you were awake",
-    "Have you dreamt of ~y before?",
+    "Although hackers hold multiple motivations for producing their software, collectively they are committed to productive freedom",
+    "ik houd van u",
+   
   ],
   "~*x I dream about ~*y": [
-    "How do you feel about ~y in reality?",
+    "J'ai des petits seins",
   ],
   "~*x dream ~*y": [
-    "What does this dream suggest to you?",
-    "Do you dream often?",
-    "What persons appear in your dreams?",
-    "Don't you believe that dream has to do with your problem?",
+    "My teacher spoke of heavan and earth, he spoke with the voice of the spirit turtle.",
+    "Olu femi",
+    
   ],
   "~*x my mother ~*y": [
-    "Who else in your family ~y?",
-    "Tell me more about your family",
+    "Romanticism is then when everything being alike everything is naturally simply different, and romanticism",
+    "Lava lava",
   ],
   "~*x my father ~*y": [
-    "Your father?",
-    "Does he influence you strongly?",
-    "What else comes to mind when you think of your father?",
+    "The most grotesquely bizzare of all slave cases heard in an English court.",
+  
   ],
   "~*x I am glad ~*y": [
-    "How have I helped you to be ~y?",
-    "What makes you happy just now?",
-    "Can you explain why you are suddenly ~y?",
+    "Creating everything naturally being naturally simply different",
+    "Does the mexican open out in the presence of death",
   ],
   "~*x I am sad ~*y": [
-    "I am sorry to hear you are depressed",
-    "I'm sure it's not pleasant to be sad",
+    "And afterwards now that is all.",
+    "Nobody can be crazy all the time and still be sane.",
   ],
   "~*x are like ~*y": [
-    "What resemblence do you see between ~x and ~y?",
+    "Nobody is pure.",
   ],
   "~*x is like ~*y": [
-    "In what way is it that ~x is like ~y?",
-    "What resemblence do you see?",
-    "Could there really be some connection?",
-    "How?",
+    "And there is a mutilated world",
+    "And literary medicasters in desparate need of amelioration.",
+   
   ],
-  "~*x alike ~*y": [
-    "In what way?",
-    "What similarities are there?",
+  "~*x decades ~*y": [
+    "I know and I am not happy about it",
+    "Vegetation, resin, and rain is our sweet.",
   ],
   "~*x same ~*y": [
-    "What other connections do you see?",
+    "History is the virtual made actual, one hack after another.",
   ],
   "~*x no ~*y": [
-    "Why not?",
-    "You are being a bit negative.",
-    "Are you saying 'No' just to be negative?",
+    "We bleed and burn with thirst our blood is strength",
+    "No, Boom boom",
+  
   ],
   "~*x I was ~*y": [
-    "Were you really?",
-    "Perhaps I already knew you were ~y.",
-    "Why do you tell me you were ~y now?",
+    "Invention is the mother of necessity",
+    "Dada is the mark of abstraction.",
+    
   ],
   "~*x was I ~*y": [
-    "What if you were ~y?",
-    "Do you think you were ~y?",
-    "What would it mean if you were ~y?",
+    "The roar of contorted pains",
+    "John Cage",
+  
   ],
   "~*x I am ~*y": [
-    "In what way are you ~y?",
-    "Do you want to be ~y?",
+    "Five red apples",
+    "Life",
   ],
   "~*x am I ~*y": [
-    "Do you believe you are ~y?",
-    "Would you want to be ~y?",
-    "You wish I would tell you you are ~y?",
-    "What would it mean if you were ~y?",
+    "Goodness is lucid, clear, and resolute, and ruthless towards compromise.",
+    "But how many kinds of sentence are there.",
+
   ],
   "~*x am ~*y": [
-    "Why do you say 'AM?'",
-    "I don't understand that",
-  ],
-  "~x are ~*y": [
-    "Did you think they might not be ~y?",
-    "Possibly they are ~y",
-  ],
-   "~*x are you ~*y": [
-    "Why are you interested in whether I am ~y or not?",
-    "Would you prefer if I weren't ~y ?",
-    "Perhaps I am ~y in your fantasies.",
-  ],
-  "~*x you are ~*y": [
-    "What makes you think I am ~y?",
-  ],
-  "~*x because ~*y": [
-    "Is that the real reason?",
-    "What other reasons might there be?",
-    "Does that reason seem to explain anything else?",
-  ],
-  "~*x were you ~*y": [
-    "Perhaps I was ~y?",
-    "What do you think?",
-    "What if I had been ~y?",
-  ],
-  "~*x I can't ~*y": [
-    "Maybe you could ~y now",
-    "What if you could ~y?",
-  ],
-  "~*x I feel ~*y": [
-    "Do you often feel ~y?"
-  ],
-  "~*x I felt ~*y": [
-    "What other feelings do you have?"
-  ],
-  "~*x I ~*y you ~*z": [
-    "Perhaps in your fantasy we ~y each other",
-  ],
-  "~*x why don't you ~*y": [
-    "Should you ~y yourself?",
-    "Do you believe I don't ~y ?",
-    "Perhaps I will ~y in good time",
-  ],
-  "~*x yes ~*y": [
-    "You seem quite positive",
-    "You are sure?",
-    "I understand",
-  ],
-  "~*x someone ~*y": [
-    "Can you be more specific?",
-  ],
-  "~*x everyone ~*y": [
-    "Surely not everyone",
-    "Can you think of anyone in particular?",
-    "Who, for example?",
-    "You are thinking of a special person",
-  ],
-  "~*x always ~*y": [
-    "Can you think of a specific example?",
-    "When?",
-    "What incident are you thinking of?",
-    "Really--always?",
-  ],
-  "~*x what ~*y": [
-    "Why do you ask?",
-    "Does that question interest you?",
-    "What is it you really want to know?",
-    "What do you think?",
-    "What comes to your mind when you ask that?",
-  ],
-  "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+    "What we now call chaos is a time evolution with sensitive dependence on initial condition.",
+    "It does not matter that I do so by means of Satan",
+
   ],
 };
 
 var default_responses = [
-  "Very interesting",
-  "I am not sure I understand you fully",
-  "What does that suggest to you?",
-  "Please continue",
-  "Go on",
-  "Do you feel strongly about discussing such things?",
+  "Everyone has the right to a nationality",
+  "There are more crazy people around than you would think",
+  "A new reality, glass.",
+  "We do not struggle effectively against the spirit of your century and country; and one man, howerever poerful you suppose him to be, has difficulty getting his contemporary to share sentiments and ideas than the whole of their desires and their sentiments reject.",
+  "Means and end are convertable terms in my philosophy of life.",
+  "Lock these corpses into their tombs.",
 ];
 
 function choice(lst) {
