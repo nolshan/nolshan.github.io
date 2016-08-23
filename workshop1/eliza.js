@@ -31,7 +31,7 @@ var rules = {
   "~*x hello ~*y": [
     "There is singularly nothing that makes a difference a difference in beginning and in the middle and in ending."
   ],
-  "~*x path ~*y": [
+  "~*x computer ~*y": [
     "I must flee",
     "Under the trees of England I meditated.",
     "There is almost not an interval",
@@ -109,7 +109,7 @@ var rules = {
     "And literary medicasters in desparate need of amelioration.",
    
   ],
-  "~*x decades ~*y": [
+  "~*x alike ~*y": [
     "I know and I am not happy about it",
     "Vegetation, resin, and rain is our sweet.",
   ],
