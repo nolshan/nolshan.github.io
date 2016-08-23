@@ -28,119 +28,119 @@
  */
 
 var rules = {
-  "~*x hello ~*y": [
+  "~*x was ~*y": [
     "There is singularly nothing that makes a difference a difference in beginning and in the middle and in ending."
   ],
-  "~*x computer ~*y": [
+  "~*x I ~*y": [
     "I must flee",
     "Under the trees of England I meditated.",
     "There is almost not an interval",
     "It was very controversial to say that amphibians were disapearing",
    
   ],
-  "~*x name ~*y": [
+  "~*x path ~*y": [
     "I went on and on to a thousand pages of it.",
   ],
-  "~*x sorry ~*y": [
+  "~*x snow ~*y": [
     "It is a complex fate to be an American",
     "The developement of an esoteric vocanulary and skills",
   
   ],
-  "~*x I remember ~*y": [
+  "~*x gaps ~*y": [
     "I had been in Paris a couple years before",
     "The sages created images to give full expression to meaning",
     "This chapter would take a very long time to analyze, since I lack time I leave it.",
  
   ],
-  "~*x do you remember ~*y": [
+  "~*x my ~*y": [
     "It is not just a Chinese book",
     "Ideals are real.",
     
   ],
-  "~*x I want ~*y": [
+  "~*x child ~*y": [
     "Over there was piss cum",
     "Is the distinctiion between the symbolic and the imaginary a stable distinction",
    
   ],
-    "~*x I need ~*y": [
+    "~*x people ~*y": [
     "What am I gonna be when I grow up",
     "Sow in negligence with a grain of salt dire vision",
 
   ],
-  "~*x if ~*y": [
+  "~*x new ~*y": [
     "Pig meat farming man",
     "Pater: Father",
   
   ],
-  "~*x I dreamt ~*y": [
+  "~*x cold ~*y": [
     "Although hackers hold multiple motivations for producing their software, collectively they are committed to productive freedom",
     "ik houd van u",
    
   ],
-  "~*x I dream about ~*y": [
+  "~*x yet ~*y": [
     "J'ai des petits seins",
   ],
-  "~*x dream ~*y": [
+  "~*x eyes ~*y": [
     "My teacher spoke of heavan and earth, he spoke with the voice of the spirit turtle.",
     "Olu femi",
     
   ],
-  "~*x my mother ~*y": [
+  "~*x heavy ~*y": [
     "Romanticism is then when everything being alike everything is naturally simply different, and romanticism",
     "Lava lava",
   ],
-  "~*x my father ~*y": [
+  "~*x trees ~*y": [
     "The most grotesquely bizzare of all slave cases heard in an English court.",
   
   ],
-  "~*x I am glad ~*y": [
+  "~*x time ~*y": [
     "Creating everything naturally being naturally simply different",
     "Does the mexican open out in the presence of death",
   ],
-  "~*x I am sad ~*y": [
+  "~*x you ~*y": [
     "And afterwards now that is all.",
     "Nobody can be crazy all the time and still be sane.",
   ],
-  "~*x are like ~*y": [
+  "~*x old ~*y": [
     "Nobody is pure.",
   ],
-  "~*x is like ~*y": [
+  "~*x nothing ~*y": [
     "And there is a mutilated world",
     "And literary medicasters in desparate need of amelioration.",
    
   ],
-  "~*x alike ~*y": [
+  "~*x warbler ~*y": [
     "I know and I am not happy about it",
     "Vegetation, resin, and rain is our sweet.",
   ],
-  "~*x same ~*y": [
+  "~*x path ~*y": [
     "History is the virtual made actual, one hack after another.",
   ],
-  "~*x no ~*y": [
+  "~*x through ~*y": [
     "We bleed and burn with thirst our blood is strength",
     "No, Boom boom",
   
   ],
-  "~*x I was ~*y": [
+  "~*x part ~*y": [
     "Invention is the mother of necessity",
     "Dada is the mark of abstraction.",
     
   ],
-  "~*x was I ~*y": [
+  "~*x woods ~*y": [
     "The roar of contorted pains",
     "John Cage",
   
   ],
-  "~*x I am ~*y": [
+  "~*x pine ~*y": [
     "Five red apples",
     "Life",
   ],
-  "~*x am I ~*y": [
+  "~*x forest ~*y": [
     "Goodness is lucid, clear, and resolute, and ruthless towards compromise.",
     "But how many kinds of sentence are there.",
 
   ],
-  "~*x am ~*y": [
+  "~*x stop ~*y": [
     "What we now call chaos is a time evolution with sensitive dependence on initial condition.",
     "It does not matter that I do so by means of Satan",
 
